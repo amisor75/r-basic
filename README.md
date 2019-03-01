@@ -8,6 +8,8 @@ LINDOR LINDOR LINDOR
 
 SOMOS LOS MEJORES  MEJORE MEJORES  LOS MÁS GUAYS
 
+MARIA MARIA NOS VAMOS AL PARQUE
+
 Conoce toda la estadística descriptiva de la mano de Juan Gabriel Gomila y asienta las bases para convertirte en el Data Scientist del futuro con todo el contenido del curso. En particular verás los mismos contenidos que explicamos en primera de carrera a matemáticos, ingenieros o informáticos como por ejemplo:
 
 * Logística e instalación de R y RStudio y de Anaconda Navigator para Python
